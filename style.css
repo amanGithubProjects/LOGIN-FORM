@@ -1,7 +1,7 @@
 body{
    margin: 0px; 
    padding: 0px;
-   background: url("backgroundImage.webp") no-repeat center center/cover;
+   background: url("./images/backgroundImage.webp") no-repeat center center/cover;
    box-sizing: border-box;
 }
 
